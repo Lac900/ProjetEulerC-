@@ -30,6 +30,9 @@
     <ClCompile Include="Solution3.cpp">
       <Filter>Fichiers sources\Solution</Filter>
     </ClCompile>
+    <ClCompile Include="Solution4.cpp">
+      <Filter>Fichiers sources\Solution</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Solution1.h">
@@ -39,6 +42,9 @@
       <Filter>Fichiers sources\Solution</Filter>
     </ClInclude>
     <ClInclude Include="Solution3.h">
+      <Filter>Fichiers sources\Solution</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution4.h">
       <Filter>Fichiers sources\Solution</Filter>
     </ClInclude>
   </ItemGroup>
